@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-./mtasc -swf test.swf -main -header 1:1:20 test.as
+./mtasc -swf test2.swf -main -header 1:1:1 test2.as
